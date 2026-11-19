@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:19/11/2026
+## Reference Number:26018302
+## Name:Dhinesh k
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,70 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1.A platform will be developed that will link farmers/FPOs to consumers and bulk buyers.
+
+2.Farmers will be able to list their agricultural products with associated quantities, availability and prices.
+
+3.An easy to understand system will be created to allow the buying and selling of products with easy order and delivery processes.
+
+4.AI will be used to analyse demand which will help with supply.
+
+5.Route optimisation will be provided to help get products delivered efficiently.
+
+
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+1.A centralised platform will be developed to allow farmers, buyers and logistics to connect.
+
+2.Products will be managed and buyers will have their requirements managed in the same place.
+
+3.Agricultural produce will be matched with the right consumers and bulk buyers.
+
+4.Demand will be analysed to help with supply and order planning.
+
+5.Location and order details will be used to make sure deliveries are efficient.
+
+6.This will give a complete solution with the marketplace, demand and logistics.
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1.This solution uses current technologies that are easily accessible.
+
+2.Digital agriculture is becoming an increasingly important part of the market.
+
+3.The solution can start off by targeting certain farmers, FPOs and buyers.
+
+4.More features can be added and more users can be brought on board.
+
+5.This solution can be scaled to different areas of agriculture.
+
+6.The digital marketplace will allow scaling for the future.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1.Farmers and FPOs will gain better access to consumers and bulk buyers.
+
+2.Better price transparency will be provided.
+
+3.Consumers will gain better access to agricultural products.
+
+4.Unnecessary steps will be removed.
+
+5.Demand can be analysed to improve production planning.
+
+6.Route optimisation can help reduce the time taken to deliver products.
+
+7.Better coordination can help reduce waste and costs.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.This solution is inspired by digital agriculture and agricultural marketplaces.
+
+2.AI will be used to analyse demand to help with supply planning.
+
+3.Smart logistics and route optimisation will be used to help transport efficiently.
+
+4.Research has been done into managing the supply chain for agriculture to provide a digital solution for producers and buyers.
+
+5.Rural development is increasingly using digital technologies.
+
+![alt text](<WhatsApp Image 2026-11-19 at 6.08.39 PM.jpeg>)
